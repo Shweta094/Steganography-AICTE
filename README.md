@@ -1,7 +1,3 @@
-Here's a **human-friendly** README file for your repository. It explains the project, its purpose, and how to use it in a simple and engaging way. 🚀  
-
----
-
 # 🕵️‍♂️ Steganography GUI – Hide & Reveal Secrets in Images!  
 
 Welcome to the **Steganography GUI** project! This tool allows you to **hide secret messages inside images** and later retrieve them, all with a simple and interactive graphical interface.  
